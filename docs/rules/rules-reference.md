@@ -2,6 +2,10 @@
 
 Research date: 2026-10-23. Status: initial source-backed orientation, **not a complete table reference**. No homebrew accepted. The Quickstart is now available in Drive (folder labeled V2-4); internal guide revision and exact current full-core revision remain unconfirmed. See the [inventory](../research/quickstart-inventory.md). Do not use this orientation instead of the rules book.
 
+## Focused exploration verification completed
+
+The [exploration baseline](exploration-baseline.md) now maps the uploaded guides' relevant printed pages, including official freeform mode, shared light, time skips, encounter cadence, darkness and short effects. [HB-001](homebrew/hb-001-exploration-flow.md) compares that baseline with proposed changes. Neither document adopts campaign mechanics; the remaining non-exploration review below is still pending.
+
 ## Verified published framework
 
 The publisher's [core description](https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/shadowdark-rpg-pdf) establishes:

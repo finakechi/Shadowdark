@@ -10,7 +10,7 @@ Noah identified bookkeeping as the central out-of-combat turn frustration, espec
 
 ## First track: exploration flow
 
-Verify the exact baseline procedure and printed pages in the available Quickstart before drafting a replacement.
+The [exploration baseline](../exploration-baseline.md) now verifies the relevant printed pages. [HB-001 v0.1](hb-001-exploration-flow.md) is a complete Proposed procedure, with official freeform and group-round alternatives, rubric scores, timing exceptions and a rollback plan. No version has been selected for Testing.
 
 | Candidate direction | Potential benefit | Risk to examine |
 |---|---|---|

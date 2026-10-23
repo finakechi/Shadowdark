@@ -30,3 +30,10 @@
 - Recorded more features/choices/magic, conditional interest in greater toughness, reduced exploration bookkeeping, retained torchlight pressure and serious costs for major magical bypasses (SD-012).
 - Updated status, outline and remaining questions; extended the design brief with explicitly unaccepted magic/durability sketches.
 - No HP, spell, encounter multiplier, exploration procedure or other homebrew mechanic was adopted.
+
+### Exploration flow proposal
+
+- Recorded Noah's development sequence as SD-013; kept HB-001's recommendation SD-014 Proposed.
+- Verified printed Quickstart pages for official freeform, group movement, shared light, time skips, darkness, encounters and short-effect timing.
+- Added HB-001 v0.1: a complete proposed conversational/timed exploration procedure, alternative comparison, weighted judgments, encounter probability calculations, interaction audit and test/rollback plan.
+- Updated navigation, register and project status. No procedure was adopted or playtest claimed.

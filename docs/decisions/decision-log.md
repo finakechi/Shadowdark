@@ -239,6 +239,44 @@ Dependencies: SD-002, SD-004, SD-007, SD-009 and source-backed baseline review.
 
 Next Action: Compare a streamlined exploration procedure, feature/ability structures, durability approaches and a small set of serious-cost utility examples. Use the rubric for concrete proposals; no mechanics become Testing or Accepted through this direction alone.
 
+## SD-013 — Development sequence
+
+Status: Accepted  
+Date: 2026-10-23  
+Category: Working method  
+Authority: Noah explicitly selected this order.
+
+Decision: Address exploration flow first, then character abilities and magic, followed by durability and encounter adjustments. This orders design work; it does not approve the assistant's proposed mechanics.
+
+Reasoning: Establish how underground play flows before adding capabilities and calibrating threats.
+
+Alternatives: Design all subsystems simultaneously or begin with HP/encounter statistics.
+
+Tradeoffs: Later abilities can expose exploration interactions that require revision; preserve version history.
+
+Dependencies: SD-009 and SD-012.
+
+Next Action: Review the exploration proposal and its baseline, then proceed through the selected sequence.
+
+## SD-014 — Exploration procedure recommendation
+
+Status: Proposed  
+Date: 2026-10-23  
+Category: Exploration homebrew  
+Authority: Assistant recommendation, not Noah's acceptance.
+
+Decision: Consider [HB-001 v0.1](../rules/homebrew/hb-001-exploration-flow.md): conversational exploration, shared real light, an automatic ten-minute GM pressure reminder, provisional danger thresholds and explicit exceptions for time skips, darkness, spells and urgent rounds.
+
+Reasoning: Directly tests lower routine bookkeeping while retaining light pressure. [Verified baseline](../rules/exploration-baseline.md) confirms that official freeform already offers loose order; the material change here is removing routine round counting and replacing encounter timing.
+
+Alternatives: Strict published turns; published freeform with normal round tracking (strongest fallback); group actions counted as crawling rounds.
+
+Tradeoffs: Wandering encounter frequency is changed and not empirically calibrated. Short effects, darkness and split groups still require some counting. Weighted scores are design judgments; the recommended proposal has only a small scoring edge over official freeform.
+
+Dependencies: Noah's choice before Testing; active light/reminder handling; source-backed short effect and rest procedures.
+
+Next Action: Review or revise HB-001, then record any explicit selection for Testing. No test or adopted rule is implied by publishing this proposal.
+
 ## Recording changes
 
 When accepted: record approver, date, exact scope, sources, alternatives, tradeoffs and dependencies. For a rule change link the HB file holding exact replacement text. When reversed: preserve prior decision history, add dated reason, and link any new ID replacing it. Reconcile affected outline, preparation and PROJECT_STATUS links. Add separate detailed records only as needed.
