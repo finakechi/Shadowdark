@@ -4,16 +4,16 @@ Last updated: 2026-10-23 (America/New_York)
 
 ## Objective and stage
 
-Develop a short underground mini-campaign for approximately three players: at least four sessions, but not many more. Start at level 1, with expanded character options and revised exploration flow to be designed. Tone references: Elden Ring, The Witcher and Forgotten Realms. Plan tentatively for virtual play. Session length, actual premise/adventure, platform and exact homebrew remain open.
+Develop a short underground mini-campaign for approximately three players: at least four sessions, but not many more. Start at level 1, with expanded character options and revised exploration flow to be designed. Tone references: Elden Ring, The Witcher and Forgotten Realms. Plan tentatively for virtual play. Sessions last 3–4 hours. Actual premise/adventure, platform and exact homebrew remain open. More magic and less exploration bookkeeping are explicit priorities; largely preserve torchlight pressure and require serious costs for major magical obstacle bypasses. Greater toughness is under consideration, not mechanically adopted.
 
 ## Decisions and rules
 
-The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001/002 govern organization and design direction. SD-004 accepts level 1; SD-005–010 record Noah's campaign answers, preserving tentative details. SD-003 is a superseded, never-adopted assistant proposal. There are **no accepted homebrew rules and no active experiments**; consult the [homebrew register](docs/rules/homebrew/README.md).
+The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001/002 govern organization and design direction. SD-004 accepts level 1; SD-005–010 record Noah's campaign answers, preserving tentative details. SD-011 accepts 3–4-hour sessions; SD-012 records exploration/magic constraints and conditional interest in greater toughness. SD-003 is a superseded, never-adopted assistant proposal. There are **no accepted homebrew rules and no active experiments**; consult the [homebrew register](docs/rules/homebrew/README.md).
 
 ## Next actions
 
-1. Clarify session length, intended toughness versus breadth of options, and exact exploration-turn friction: [remaining questions](docs/decisions/open-questions.md).
-2. Verify relevant Quickstart procedures and compare alternatives using the [homebrew design brief](docs/rules/homebrew/design-brief.md). Do not impose a stock-rules pilot as an agreed prerequisite.
+1. Verify relevant Quickstart procedures and draft a low-bookkeeping exploration comparison that retains torchlight pressure.
+2. Compare expanded features/magic, serious-cost utility and optional durability approaches using the [homebrew design brief](docs/rules/homebrew/design-brief.md). Do not impose a stock-rules pilot as an agreed prerequisite.
 3. Compare official, original and hybrid underground adventure options against the agreed capability and scope, then prepare the first playable section.
 
 Private table boundaries are recorded in permissioned Drive campaign storage; check that note before drafting content. Their contents must not be copied into this public repository.

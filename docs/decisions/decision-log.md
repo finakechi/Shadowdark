@@ -36,7 +36,7 @@ Alternatives: Unmodified play only; indiscriminate power increases; purely numer
 
 Tradeoffs: Some existing challenges will become easier; investigate specific effects and preserve other informed risks.
 
-Dependencies: See SD-005 through SD-010 for the initial campaign direction; exact mechanics, session length and power target still require design.
+Dependencies: See SD-005 through SD-010 for the initial campaign direction; session length is recorded in SD-011; exact mechanics and numerical power target still require design.
 
 Next Action: Verify the baseline and design alternatives around the exploration/character targets in SD-009.
 
@@ -89,7 +89,7 @@ Date: 2026-10-23
 Category: Campaign setup  
 Authority: Noah's initial campaign setup answers.
 
-Decision: Plan a short mini-campaign of at least four sessions, but not many more. Use approximately three players as a tentative planning assumption. The main location should feel like an enormous underground dungeon, temple, ruined city or Underdark-like environment. Include exploration, combat, social interaction and puzzles; no ranking or fixed ratios were supplied. No target date is set; session length and firm upper count remain open.
+Decision: Plan a short mini-campaign of at least four sessions, but not many more. Use approximately three players as a tentative planning assumption. The main location should feel like an enormous underground dungeon, temple, ruined city or Underdark-like environment. Include exploration, combat, social interaction and puzzles; no ranking or fixed ratios were supplied. No target date is set. Session length is now 3–4 hours under SD-011; the firm upper session count remains open.
 
 Reasoning: Supports an extended underground expedition with variety and room for character growth.
 
@@ -97,7 +97,7 @@ Alternatives: One-shot, smaller isolated dungeon, or a longer open-ended campaig
 
 Tradeoffs: The location can imply greater scale than the prepared area. Scope must remain bounded enough to conclude in a short run.
 
-Dependencies: Session length, player experience, power package and final adventure choice.
+Dependencies: SD-011 session length, player experience, power package and final adventure choice.
 
 Next Action: Develop a bounded playable route with optional branches; do not assume four-to-six sessions is already approved.
 
@@ -171,7 +171,7 @@ Reasoning: Addresses the specific friction Noah identified rather than generic n
 
 Alternatives: Unmodified play, numerical boosts alone, or wholesale D&D conversion.
 
-Tradeoffs: More options can increase bookkeeping, bypass obstacles or displace roles; more actions/durability can alter danger independently. Exact exploration friction and the intended power dimensions need clarification.
+Tradeoffs: More options can increase bookkeeping, bypass obstacles or displace roles; more actions/durability can alter danger independently. Noah clarified exploration bookkeeping as the main friction and requested more features, choices and magic; see SD-012. Numerical toughness and specific procedures remain unresolved.
 
 Dependencies: SD-002, SD-004, source-backed rules review and the remaining questions.
 
@@ -195,6 +195,49 @@ Tradeoffs: Final adventure selection depends on mechanics; platform-specific ass
 Dependencies: Character capability, exploration procedures, session length and VTT choice.
 
 Next Action: Compare approaches against scale, duration, customization effort and support for the agreed mechanics.
+
+## SD-011 — Session length
+
+Status: Accepted  
+Date: 2026-10-23  
+Category: Campaign logistics  
+Authority: Noah's follow-up answer 1.
+
+Decision: Plan sessions of 3–4 hours. The campaign remains at least four sessions, but not many more; no firm maximum or target date is set.
+
+Reasoning: Gives a concrete preparation budget while retaining the agreed short-campaign scope.
+
+Alternatives: Shorter or longer sessions considered in the initial question.
+
+Tradeoffs: Opening, breaks and wrap-up reduce active adventure time; do not equate a session with a fixed room count.
+
+Dependencies: SD-005; eventual scheduling.
+
+Next Action: Size candidate adventure routes against this time budget.
+
+## SD-012 — Low-bookkeeping exploration and consequential magic
+
+Status: Accepted  
+Date: 2026-10-23  
+Category: Design constraints  
+Authority: Noah's follow-up answers 2–3.
+
+Decision:
+- Increase features, meaningful choices and magic.
+- Explore greater, potentially D&D-like character toughness with enemies and hazards capable of maintaining danger. Toughness is an option to evaluate, not an adopted HP, healing or damage rule.
+- Reduce exploration bookkeeping; tracking too much for characters with few worthwhile actions was the main reported frustration.
+- Preserve torchlight pressure for the most part; no exact timer or time procedure has been adopted.
+- Avoid inexpensive immediate answers to major problems such as curse removal and comprehensive language comprehension. Such options may exist if they have a serious cost. The named spell examples are design references, not claims about their presence or exact effects in the Quickstart.
+
+Reasoning: Supports capable characters and a more magical experience without routinely removing exploration obstacles or recreating administrative burden.
+
+Alternatives: Sparse low-magic characters; unmodified exploration turns; broadly available obstacle bypasses; automatic toughness increases without threat review.
+
+Tradeoffs: More abilities can add tracking. More toughness plus equal proportional enemy damage may preserve the same error margin rather than improve it. Costs must matter in actual play; cosmetic prices, irrelevant delays or easily replenished charges may not suffice.
+
+Dependencies: SD-002, SD-004, SD-007, SD-009 and source-backed baseline review.
+
+Next Action: Compare a streamlined exploration procedure, feature/ability structures, durability approaches and a small set of serious-cost utility examples. Use the rubric for concrete proposals; no mechanics become Testing or Accepted through this direction alone.
 
 ## Recording changes
 

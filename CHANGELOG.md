@@ -23,3 +23,10 @@
 - Preserved SD-003 as a superseded assistant proposal rather than treating it as an adopted plan.
 - Updated status, campaign outline and outstanding questions; added an initial design brief without accepting any mechanics.
 - Stored private table boundaries only in permissioned Drive; no boundary details or private note link were published in GitHub.
+
+### Exploration and magic clarification
+
+- Recorded 3–4-hour sessions (SD-011).
+- Recorded more features/choices/magic, conditional interest in greater toughness, reduced exploration bookkeeping, retained torchlight pressure and serious costs for major magical bypasses (SD-012).
+- Updated status, outline and remaining questions; extended the design brief with explicitly unaccepted magic/durability sketches.
+- No HP, spell, encounter multiplier, exploration procedure or other homebrew mechanic was adopted.
