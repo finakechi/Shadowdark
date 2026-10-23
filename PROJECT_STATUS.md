@@ -13,10 +13,12 @@ The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001 and 
 ## Next actions
 
 1. Resolve essential [setup questions Q01–Q06 and Q09–Q10](docs/decisions/open-questions.md).
-2. Obtain the free Quickstart through its publisher, and identify owned rulebooks and their versions. See [catalog](docs/research/official-resources.md).
+2. Review the uploaded Quickstart player/GM guides and build a page-referenced baseline; identify any other owned rulebooks and their versions. See [Quickstart inventory](docs/research/quickstart-inventory.md).
 3. Select a small adventure and provisional rules package, then complete the [session checklist](docs/campaign/session-preparation.md).
 
 ## Research state
+
+Noah supplied the Quickstart on 2026-10-23. Its folder is labeled V2-4; both player/GM PDFs return readable text. Eight pregenerated character PDFs, a blank sheet and map are present. Internal guide revision markers remain unconfirmed. See the [inventory](docs/research/quickstart-inventory.md).
 
 Initial official catalog and [baseline report](docs/rules/rules-reference.md) prepared. Paid interiors, exact current core revision, full errata, newer Western Reaches release/access details and some class downloads remain unverified. [Research notes](docs/research/research-notes.md) track gaps; do not infer missing content.
 

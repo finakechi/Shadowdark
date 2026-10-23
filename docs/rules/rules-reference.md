@@ -1,6 +1,6 @@
 # Baseline rules and design report
 
-Research date: 2026-10-23. Status: initial source-backed orientation, **not a complete table reference**. No homebrew accepted. Exact core/Quickstart revision is pending acquisition; do not use this document instead of the rules book.
+Research date: 2026-10-23. Status: initial source-backed orientation, **not a complete table reference**. No homebrew accepted. The Quickstart is now available in Drive (folder labeled V2-4); internal guide revision and exact current full-core revision remain unconfirmed. See the [inventory](../research/quickstart-inventory.md). Do not use this orientation instead of the rules book.
 
 ## Verified published framework
 
@@ -69,6 +69,6 @@ These are risk estimates, not prohibitions. Test the smallest useful change firs
 
 ## Rules work still needed before session reference is complete
 
-After lawful PDFs arrive, verify and record their exact versions and page references for character creation (ancestries/backgrounds/equipment), checks and advantage, movement/actions/initiative, spell failure/focus, death/stabilization/rest, light and encounter checks, morale/reactions, XP/advancement, treasure and downtime.
+Using the uploaded Quickstart guides, verify and record version provenance and printed page references for character creation (ancestries/backgrounds/equipment), checks and advantage, movement/actions/initiative, spell failure/focus, death/stabilization/rest, light and encounter checks, morale/reactions, XP/advancement, treasure and downtime.
 
 Do not fill this list from memory or a community transcription. For each entry add source/version/page and a short original summary; avoid reproducing a substitute for the commercial book.

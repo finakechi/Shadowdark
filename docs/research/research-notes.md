@@ -20,7 +20,7 @@ Component adventures share their parent product's purchase requirement; do not c
 
 ## Limitations and highest-value follow-up
 
-1. No official PDF interiors have been acquired in this session. Product descriptions verify advertised contents, not the exact text of every rule.
+1. Update: Noah uploaded the Quickstart on 2026-10-23. Both guides return readable text; initial contents inspection is complete, but full page-referenced rules review remains pending. Folder label V2-4 is not an independently verified internal revision. See [inventory](quickstart-inventory.md).
 2. No complete current core errata/change file or exact latest core revision was verified. Read the legally obtained current download and keep any included change history.
 3. Kickstarter yielded campaign headings, creator, reward/book-name snippets and last-updated metadata, but not full update bodies. Newer Cursed Scrolls, consolidation details, accessories and retail availability need a fresh first-party check.
 4. Some official sites rely on JavaScript. Shadowdarklings' public designation is verified, but its generator behavior, all source toggles and output were not tested.
@@ -29,7 +29,7 @@ Component adventures share their parent product's purchase requirement; do not c
 7. No newsletter was joined, checkout submitted, purchase made or commercial content redistributed.
 8. No comprehensive Discord ruling archive, licensed VTT/translation audit, video bibliography or exact spell/monster/class database completed.
 9. Public shop listings and forecasts can lag backer releases. An old expected restock date or absent store product is not proof of present availability or nonexistence.
-10. User ownership beyond the supplied empty folder is unknown; do not infer no books are owned.
+10. Ownership beyond the uploaded Quickstart remains unknown. The initially empty folder now contains that package; do not infer ownership or absence of other books.
 
 ## Source hierarchy for future work
 
