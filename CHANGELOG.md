@@ -16,3 +16,10 @@
 - Confirmed readable guide text and recorded the V2-4 folder label without assuming an internal revision marker.
 - Added an acquisition inventory and updated catalog, status, research limitations and baseline availability notes.
 - Identified Core-Cursed Scrolls PDF as a promotional link sheet, not ownership of those books. No files moved, duplicated or shared; no campaign rules changed.
+
+### Campaign setup answers
+
+- Accepted level 1 and recorded the short underground campaign direction, tentative party size, tone, danger preferences, guided creation, homebrew priorities and likely virtual format (SD-004–010).
+- Preserved SD-003 as a superseded assistant proposal rather than treating it as an adopted plan.
+- Updated status, campaign outline and outstanding questions; added an initial design brief without accepting any mechanics.
+- Stored private table boundaries only in permissioned Drive; no boundary details or private note link were published in GitHub.

@@ -4,17 +4,19 @@ Last updated: 2026-10-23 (America/New_York)
 
 ## Objective and stage
 
-Establish a learnable, runnable Shadowdark one-shot or short mini-campaign, expandable later. Foundation and initial first-party research complete; campaign scoping is awaiting Noah's answers. No adventure, party size, starting level, setting or session schedule has been selected.
+Develop a short underground mini-campaign for approximately three players: at least four sessions, but not many more. Start at level 1, with expanded character options and revised exploration flow to be designed. Tone references: Elden Ring, The Witcher and Forgotten Realms. Plan tentatively for virtual play. Session length, actual premise/adventure, platform and exact homebrew remain open.
 
 ## Decisions and rules
 
-The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001 and SD-002 record instructions already given by Noah. SD-003 and SD-004 are proposals only. There are **no accepted homebrew rules and no active experiments**; consult the [homebrew register](docs/rules/homebrew/README.md).
+The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001/002 govern organization and design direction. SD-004 accepts level 1; SD-005–010 record Noah's campaign answers, preserving tentative details. SD-003 is a superseded, never-adopted assistant proposal. There are **no accepted homebrew rules and no active experiments**; consult the [homebrew register](docs/rules/homebrew/README.md).
 
 ## Next actions
 
-1. Resolve essential [setup questions Q01–Q06 and Q09–Q10](docs/decisions/open-questions.md).
-2. Review the uploaded Quickstart player/GM guides and build a page-referenced baseline; identify any other owned rulebooks and their versions. See [Quickstart inventory](docs/research/quickstart-inventory.md).
-3. Select a small adventure and provisional rules package, then complete the [session checklist](docs/campaign/session-preparation.md).
+1. Clarify session length, intended toughness versus breadth of options, and exact exploration-turn friction: [remaining questions](docs/decisions/open-questions.md).
+2. Verify relevant Quickstart procedures and compare alternatives using the [homebrew design brief](docs/rules/homebrew/design-brief.md). Do not impose a stock-rules pilot as an agreed prerequisite.
+3. Compare official, original and hybrid underground adventure options against the agreed capability and scope, then prepare the first playable section.
+
+Private table boundaries are recorded in permissioned Drive campaign storage; check that note before drafting content. Their contents must not be copied into this public repository.
 
 ## Research state
 
