@@ -43,3 +43,10 @@
 - Recorded SD-015: combat initiative remains appropriate, ordinary exploration is freeform, and noncombat rounds have specific temporary uses.
 - Made immediate dangerous-darkness handling explicit in HB-001; the encounter reminder does not defer its consequences.
 - Clarified return to freeform after urgency ends. HB-001's numerical mechanics and full-package status remain Proposed.
+
+### Character, magic and durability decision comparisons
+
+- Verified relevant Player Quickstart class, advancement, casting, focus and utility sections; added a source map.
+- Added HB-002 character architecture, HB-003 magic/ritual architecture and existing-spell audit, and HB-004 conditional HP/encounter comparison.
+- Recorded SD-016–018 as Proposed, updated register/status, and preserved unresolved exploration timer/chances.
+- Checked weighted-score and HP comparison arithmetic. No class menu, spell, HP rule or encounter adjustment was adopted or playtested.

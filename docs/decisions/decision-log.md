@@ -296,6 +296,63 @@ Dependencies: SD-012 and SD-013; exact short-effect handling will be reviewed du
 
 Next Action: Apply this architecture to HB-001. Its encounter thresholds, interval and full-package status remain Proposed; the clarification is not blanket acceptance or authorization of Testing.
 
+## SD-016 — Character ability architecture
+
+Status: Proposed  
+Date: 2026-10-23  
+Category: Character design  
+Authority: Assistant recommendation following Noah's instruction to continue.
+
+Decision: Consider [HB-002](../rules/homebrew/hb-002-character-options.md): recognizable classes plus two chosen level-1 features, another choice at level 2 and a choice/upgrade at level 3. Preserve baseline benefits initially; exact menus and allowed sources remain unresolved.
+
+Reasoning: Targets more meaningful options rather than merely increasing talent rolls and numerical bonuses.
+
+Alternatives: Published classes alone; classless modules; broad D&D-style replacement.
+
+Tradeoffs: Additive features can stack with normal progression. Caster and noncaster menus require parity, distinct roles and explicit action/resource costs.
+
+Dependencies: Character concepts, allowed classes/sources, mundane/supernatural flavor and exact feature drafting.
+
+Next Action: Review architecture and draft actual feature menus. This is not a playable package or acceptance of the feature count.
+
+## SD-017 — Magic architecture and existing-spell audit
+
+Status: Proposed  
+Date: 2026-10-23  
+Category: Magic design  
+Authority: Assistant recommendation.
+
+Decision: Consider [HB-003](../rules/homebrew/hb-003-magic-framework.md): retain the casting engine initially; expand specified minor/adventuring magic and costly rituals; audit existing utility and write bounded exploration applications where appropriate.
+
+Reasoning: More magic must coexist with torch pressure, useful languages, class contributions and the freeform exploration direction.
+
+Alternatives: Baseline magic; expanded known spells without utility review; unified mana pool.
+
+Tradeoffs: Existing Light, Knock and focus already interact with these goals. No spell is banned or rewritten by an audit list. Rituals and alternate applications need exact wording before use.
+
+Dependencies: HB-002 ability budget, actual selected spells, supplied Quickstart and SD-015.
+
+Next Action: Compare concrete feature/spell drafts, including failure and duration rules. No new cantrip, ritual or focus replacement is adopted.
+
+## SD-018 — Starting durability and encounter calibration
+
+Status: Proposed  
+Date: 2026-10-23  
+Category: Durability and encounters  
+Authority: Conditional assistant recommendation after character/magic comparisons.
+
+Decision: Consider [HB-004](../rules/homebrew/hb-004-durability-and-encounters.md): maximum first class die + 2 + CON, with stated ancestry handling, unchanged later gains/recovery initially, and encounter calibration from actual party capabilities.
+
+Reasoning: A simple first-level buffer may support new choices without a new recovery tracker.
+
+Alternatives: Baseline rolled HP; maximum first die only; doubled baseline starting HP.
+
+Tradeoffs: Proportional gains favor small HP dice; dwarf's first-level rolling advantage becomes inapplicable under maximization. Encounter attrition and healing interactions remain untested. No universal enemy multiplier follows.
+
+Dependencies: Selected abilities/magic, ancestry, actual character sheets and encounter cadence.
+
+Next Action: Choose or revise a durability option after the ability/magic direction is clearer; then review representative encounters. No HP change or revised encounter statistics adopted.
+
 ## Recording changes
 
 When accepted: record approver, date, exact scope, sources, alternatives, tradeoffs and dependencies. For a rule change link the HB file holding exact replacement text. When reversed: preserve prior decision history, add dated reason, and link any new ID replacing it. Reconcile affected outline, preparation and PROJECT_STATUS links. Add separate detailed records only as needed.

@@ -22,6 +22,8 @@ These are alternative directions, not rules. Bookkeeping is now the confirmed pr
 
 ## Second track: character capability
 
+[HB-002](hb-002-character-options.md) now compares baseline classes, class specialties, classless modules and broader replacement. The [character/magic baseline](../character-magic-baseline.md) supplies printed source references. Feature menus and final counts are not approved.
+
 | Candidate direction | Potential benefit | Risk to examine |
 |---|---|---|
 | Add a few distinctive class-specific choices | Identity and useful options without a large rules layer | Niche overlap, stacking and new default actions |
@@ -31,6 +33,8 @@ These are alternative directions, not rules. Bookkeeping is now the confirmed pr
 Options and toughness are separate axes; different combinations are possible. Inspect utility, encounter bypass, resource costs, action count, failure consequences and role overlap before judging success. Define useful noncombat capabilities as carefully as attacks.
 
 ## Third track: magic that supports adventure
+
+[HB-003](hb-003-magic-framework.md) now compares magic architectures, audits existing utility and identifies the focus/freeform interaction. It contains no approved replacement spells.
 
 Accepted direction: more magic, but no cheap, immediate removal of major obstacles. The examples below are assistant design sketches, not official spell descriptions, scored proposals or campaign rules.
 
@@ -45,6 +49,8 @@ Do not make every small magical convenience expensive. Classify effects by what 
 Avoid designing plot-critical secrets with only one route forward. Magic may reward preparation and solve selected problems; it should not require immunity clauses on every obstacle to preserve the campaign.
 
 ## Durability and threat calibration — recommendations
+
+[HB-004](hb-004-durability-and-encounters.md) now compares starting HP options and provides a conditional encounter-calibration plan. Its formula and recommendations are Proposed, not adopted.
 
 Treat action count, HP, recovery and defense as separate adjustments. Compare a modest survival buffer, broader D&D-like toughness, and improved defensive options before recommending a package. Keep consequences and resource expenditure visible.
 

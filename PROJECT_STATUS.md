@@ -8,19 +8,21 @@ Develop a short underground mini-campaign for approximately three players: at le
 
 ## Decisions and rules
 
-The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001/002 govern organization and design direction. SD-004 accepts level 1; SD-005–010 record Noah's campaign answers, preserving tentative details. SD-011 accepts 3–4-hour sessions; SD-012 records exploration/magic constraints and conditional interest in greater toughness. SD-003 is a superseded, never-adopted assistant proposal. SD-013 records the development order: exploration, then abilities/magic, then durability/encounters. SD-014 recommends HB-001 but remains Proposed. SD-015 confirms combat initiative, freeform ordinary exploration and temporary rounds for specific immediate dangers, including dangerous darkness. There are **no accepted homebrew rules and no active experiments**; consult the [homebrew register](docs/rules/homebrew/README.md).
+The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001/002 govern organization and design direction. SD-004 accepts level 1; SD-005–010 record Noah's campaign answers, preserving tentative details. SD-011 accepts 3–4-hour sessions; SD-012 records exploration/magic constraints and conditional interest in greater toughness. SD-003 is a superseded, never-adopted assistant proposal. SD-013 records the development order: exploration, then abilities/magic, then durability/encounters. SD-014 recommends HB-001 but remains Proposed. SD-015 confirms combat initiative, freeform ordinary exploration and temporary rounds for specific immediate dangers, including dangerous darkness. SD-016–018 are new Proposed character, magic and durability directions; none is a complete approved package. There are **no accepted homebrew packages and no active experiments**; consult the [homebrew register](docs/rules/homebrew/README.md).
 
 ## Next actions
 
-1. Review [HB-001 v0.1](docs/rules/homebrew/hb-001-exploration-flow.md), a complete Proposed exploration procedure with alternatives, scores, timing exceptions and a test/rollback plan. Noah has not selected Testing.
-2. Next develop expanded features and consequential magic; afterwards evaluate durability and encounters (SD-013). Use the [design brief](docs/rules/homebrew/design-brief.md), revisiting any exploration interactions.
-3. Compare official, original and hybrid underground adventure options against the agreed capability and scope, then prepare the first playable section.
+1. Review [HB-002](docs/rules/homebrew/hb-002-character-options.md) character structure and [HB-003](docs/rules/homebrew/hb-003-magic-framework.md) magic direction. Choose/revise the framework and character concepts, then write exact feature menus and affected spells.
+2. Use [HB-004](docs/rules/homebrew/hb-004-durability-and-encounters.md) to choose a starting durability option and calibrate representative encounters after capabilities are clearer. No HP or recovery changes are approved.
+3. Compare official, original and hybrid underground adventure options, then prepare the first playable section. HB-001's encounter interval/chances remain Proposed; moving forward is not acceptance.
 
 Private table boundaries are recorded in permissioned Drive campaign storage; check that note before drafting content. Their contents must not be copied into this public repository.
 
 ## Research state
 
 Noah supplied the Quickstart on 2026-10-23. Its folder is labeled V2-4; both player/GM PDFs return readable text. Eight pregenerated character PDFs, a blank sheet and map are present. Internal guide revision markers remain unconfirmed. See the [inventory](docs/research/quickstart-inventory.md).
+
+Focused [character/magic verification](docs/rules/character-magic-baseline.md) now maps classes, advancement, casting/failure, focus and existing utility spells in the uploaded Player Quickstart. HB-002/003 are framework comparisons, not final menus or replacement spell lists.
 
 Focused [exploration verification](docs/rules/exploration-baseline.md) is complete for the uploaded guides. Exact wandering encounter equivalence under a timed replacement is unknown; its arithmetic has been checked, but no playtest has occurred.
 
