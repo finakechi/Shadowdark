@@ -21,6 +21,7 @@ A working project for learning Shadowdark, preparing a one-shot or short campaig
 | Campaign scope | [Campaign outline](docs/campaign/campaign-outline.md) |
 | Research limitations and original infrastructure audit | [Research notes](docs/research/research-notes.md) |
 | Drive locations and asset handling | [Storage guide](docs/project-organization.md) |
+| Class roster and adaptations | [Roster](docs/characters/class-roster.md), [complete-kit evaluation](docs/characters/class-kit-evaluation.md), [alternatives](docs/characters/class-kit-options.md) |
 | Characters and onboarding | [Player resources](docs/players/README.md) |
 | Encounter, monster and treasure work | [Design notes](docs/design/encounters-and-rewards.md) |
 | Experiments and feedback | [Balance notes](docs/playtesting/balance-notes.md) |

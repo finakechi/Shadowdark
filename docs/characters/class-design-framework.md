@@ -68,6 +68,6 @@ For each class, compare combat damage and prevention, noncombat options, resourc
 
 ## Change control
 
-Accepted roster scope: SD-019. Proposed design method: SD-020. Feature counts: SD-016 remains Proposed. Magic: SD-017 remains Proposed. Durability: SD-018 remains Proposed.
+Accepted roster scope: SD-019. Proposed design method: SD-020. Names: SD-021 Accepted (Cleric and Rogue). Package recommendations: SD-022 Proposed; see the [evaluation](class-kit-evaluation.md) and [alternatives](class-kit-options.md). Feature counts: SD-016 remains Proposed. Magic: SD-017 remains Proposed. Durability: SD-018 remains Proposed.
 
 The next deliverable is original, concrete level-1 class drafts for all twelve, not a claim that the roster briefs themselves are playable rules.

@@ -1,6 +1,6 @@
 # Character class roster
 
-Status: roster scope Accepted (SD-019); adaptations below Proposed.  
+Status: roster scope Accepted (SD-019), Cleric/Rogue names Accepted (SD-021); mechanics below Proposed.  
 Research / design date: 2026-10-24 (UTC)  
 Related: [framework](class-design-framework.md), [HB-002](../rules/homebrew/hb-002-character-options.md), [decision log](../decisions/decision-log.md).
 
@@ -37,7 +37,7 @@ These are our design targets, not official Shadowdark or D&D rules. Signature id
 
 The supplied Quickstart verifies Fighter, Priest, Thief and Wizard. See the [baseline and printed page references](../rules/character-magic-baseline.md).
 
-Recommendation: use **Cleric** as the roster name for our Priest-derived redesign and **Rogue** for our Thief-derived redesign. This is a proposed naming/lineage mapping, not two extra classes, a mechanical conversion or a finding that their published rules are equivalent.
+Accepted under SD-021: use **Cleric** as the roster name for our Priest-derived redesign and **Rogue** for our Thief-derived redesign. This is an approved naming/lineage mapping, not two extra classes, a mechanical conversion or a finding that their published rules are equivalent.
 
 Existing official supplementary classes should be reviewed when legitimately accessible. The [official resource catalog](../research/official-resources.md) is the acquisition index. A verified product listing does not verify its interior mechanics. We have not completed an exhaustive official-equivalent audit for all twelve classes and must not invent their published rules.
 
@@ -54,4 +54,4 @@ No mandatory healer, tank, scout or arcane caster is assumed for the tentative t
 
 ## Readiness
 
-All twelve have initial identity and interaction briefs. None has a complete revised playable class sheet yet. Next: draft level-1 kits side by side, then level-2/3 choices and a magic interaction pass. Choose HP and encounter adjustments after these capabilities are visible.
+All twelve now have a [complete package-level evaluation](class-kit-evaluation.md) and [scored alternatives](class-kit-options.md), including chassis, core abilities, magic, utility, resources, growth, failure and test situations. These are candidate kits; none has a complete revised playable class sheet yet. Next: exact level-1 alpha sheets, level-2/3 choices and a magic interaction pass. Choose HP and encounter adjustments after these capabilities are visible.

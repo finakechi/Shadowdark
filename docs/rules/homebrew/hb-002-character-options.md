@@ -1,9 +1,9 @@
 # HB-002 — Expanded character options through class specialties
 
 Status: Proposed  
-Version: 0.2 — twelve-class scope; architecture comparison, not a playable class package  
+Version: 0.3 — complete-kit evaluation linked; not a playable class package  
 Created: 2026-10-23; updated: 2026-10-24 (UTC)  
-Related decisions: SD-016 (Proposed), SD-019 (Accepted roster), SD-020 (Proposed framework)  
+Related decisions: SD-016/020/022 (Proposed), SD-019 (Accepted roster), SD-021 (Accepted names)  
 Approval / playtest evidence: none
 
 ## Problem and baseline
@@ -17,6 +17,8 @@ The [verified character/magic baseline](../character-magic-baseline.md) maps the
 Noah selected the twelve 2024 Player's Handbook class identities under SD-019. See the [roster and original adaptation briefs](../../characters/class-roster.md). The earlier four-class examples below are retained as examples, not the full design scope.
 
 The [shared design framework](../../characters/class-design-framework.md) recommends evaluating each class's entire kit rather than applying identical additions to unequal starting packages. SD-020 is Proposed. The numerical schedule below remains an earlier proposal to evaluate, not an adopted entitlement layered on top of new classes.
+
+The [complete-kit evaluation](../../characters/class-kit-evaluation.md) and [class-specific alternative comparisons](../../characters/class-kit-options.md) now assess all twelve foundations, actions, utility, magic, resources, growth and interactions. Names Cleric and Rogue are accepted; candidate mechanics are not. The earlier four examples retain published source names for historical clarity.
 
 ## Approaches
 
@@ -87,6 +89,8 @@ B's higher score assumes short, bounded features, preserved opportunity costs an
 
 - v0.1, 2026-10-23: initial additive architecture and four example class directions; no mechanics adopted.
 - v0.2, 2026-10-24: linked Noah's accepted twelve-class scope, replaced the party-only drafting priority, and proposed a common whole-kit audit. Preserved the earlier feature schedule and comparison as Proposed.
+
+- v0.3, 2026-10-24: recorded accepted homebrew names and linked the twelve package-level evaluations and scored alternatives. No additive schedule or class mechanics adopted.
 
 ## Remaining work before play
 

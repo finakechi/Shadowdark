@@ -366,7 +366,7 @@ Reasoning: Provides the familiar range of character concepts Noah requested whil
 
 Alternatives: Limit creation to the four Quickstart classes; select only a few additional classes.
 
-Tradeoffs: Twelve classes require more design and overlap checking. The initial level-1/2/3 drafting milestone is a recommendation, not a campaign level cap. Cleric/Priest and Rogue/Thief naming mappings remain recommendations.
+Tradeoffs: Twelve classes require more design and overlap checking. The initial level-1/2/3 drafting milestone is a recommendation, not a campaign level cap. Cleric/Priest and Rogue/Thief naming mappings were subsequently accepted in SD-021; no mechanical equivalence follows.
 
 Dependencies: SD-004 level 1, SD-008 guided creation, SD-012 magic/exploration objectives; precise class kits and sources remain unresolved.
 
@@ -390,6 +390,44 @@ Tradeoffs: More original drafting and playtesting; common standards should not m
 Dependencies: Accepted scope SD-019; HB-002/003 interaction; final guided-creation restrictions.
 
 Next Action: Draft concrete level-1 kits, compare significant alternatives, then revise and select candidates for Testing. SD-016 remains Proposed; this framework is not an additional automatic grant of features.
+
+## SD-021 — Cleric and Rogue names
+
+Status: Accepted  
+Date: 2026-10-24 (UTC)  
+Category: Character naming  
+Authority: Noah explicitly approved Rogue for Thief and Cleric for Priest.
+
+Decision: Use **Rogue** and **Cleric** as the homebrew roster names. Rogue develops from the verified Shadowdark Thief foundation; Cleric develops from the verified Priest foundation. Use original names when identifying published source material.
+
+Reasoning: Matches the selected twelve-class roster and Noah's preferred terminology.
+
+Alternatives: Keep Thief/Priest as the homebrew names or offer both as separate classes.
+
+Tradeoffs: References must distinguish published text from homebrew. This accepts names and lineage, not D&D mechanics, expanded Backstab eligibility, new spell access or any other class changes.
+
+Dependencies: SD-019 roster; precise kits under development.
+
+Next Action: Apply these names to new class drafts and preserve accurate source labels.
+
+## SD-022 — Complete-kit evaluation and candidate adaptations
+
+Status: Proposed  
+Date: 2026-10-24 (UTC)  
+Category: Character mechanics  
+Authority: Assistant recommendations following Noah's request to evaluate all twelve complete kits.
+
+Decision: Consider the [complete-kit evaluation](../characters/class-kit-evaluation.md) and [scored alternatives](../characters/class-kit-options.md): strengthen martial operating choices, make targeted changes to existing Cleric/Wizard capability, and design the other eight as distinct coordinated adaptations rather than direct full D&D ports.
+
+Reasoning: Total power includes equipment, spell breadth, casting reliability, healing, control, information, companions and growth. Equal added feature counts do not account for those interactions.
+
+Alternatives: Published/minimal foundations; coordinated adaptations; broad D&D subsystem ports. Each class has a specific comparison and stated assumptions.
+
+Tradeoffs: The recommended directions add design work and retain unresolved numerical interactions. Comparative HP dice, equipment directions, spell access, resource models and progression sketches are Proposed; none is a final class sheet or a finding of measured balance.
+
+Dependencies: SD-004/012/015/019/021; SD-016/017/018/020 remain Proposed where not explicitly approved.
+
+Next Action: Draft exact level-1 alpha sheets and level-2/3 choices, resolve shared action/casting contracts, then review durability and representative encounters. No class moved to Testing or Accepted.
 
 ## Recording changes
 

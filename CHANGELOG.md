@@ -59,3 +59,12 @@
 - Added original class identity, tactical/utility and interaction briefs for all twelve, plus a Proposed shared redesign standard (SD-020).
 - Updated HB-002 to v0.2, expanding beyond the earlier four example classes and party-only drafting priority. Its numerical feature schedule remains Proposed; whole-kit auditing is recommended before final counts.
 - Updated status and navigation. No D&D mechanics, subclasses, HP changes or complete revised class sheets were adopted. No playtest claimed.
+
+### Complete class-kit evaluation
+
+- Recorded Noah's explicit approval of Cleric and Rogue names as SD-021; preserved source names and separated naming from mechanics.
+- Re-read the uploaded Player Quickstart's four class kits and checked official 2024 D&D class references.
+- Added twelve package-level evaluations covering chassis, actions, magic/utility, resources, progression, failure, interactions and practical tests.
+- Added three scored design routes per class with all five project criteria, assumptions and uncertainty; no score represents tested class balance.
+- Linked Proposed candidate adaptations under SD-022 and HB-002 v0.3; updated navigation, status and resolved naming questions.
+- Checked weighted arithmetic, twelve-class coverage and casting-reliability example. Exact class rules, HP changes, new spell lists and testing remain pending.

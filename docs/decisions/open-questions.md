@@ -1,6 +1,6 @@
 # Campaign setup — remaining questions
 
-Updated: 2026-10-23. Noah answered the initial Q01–Q11; accepted choices now live in the [decision log](decision-log.md). This page tracks unresolved portions rather than duplicating an answer sheet.
+Updated: 2026-10-24 (UTC). Noah answered the initial Q01–Q11; accepted choices now live in the [decision log](decision-log.md). This page tracks unresolved portions rather than duplicating an answer sheet.
 
 ## Original questions: disposition
 
@@ -27,7 +27,7 @@ Do not repeat those broad questions. Next prepare reviewable mechanical alternat
 ## Can defer
 
 - Players' familiarity with RPGs and Noah's broader GM experience.
-- Exact allowed classes, ancestries, sourcebooks and character-generation restrictions.
+- Class identities are selected in SD-019 and names in SD-021; exact kit mechanics, ancestries, sourcebooks, subclasses and character-generation restrictions remain open.
 - Advancement pace and desired end-of-campaign level.
 - VTT/platform, grid preference and accessibility needs.
 - Firm maximum session count and scheduling.
