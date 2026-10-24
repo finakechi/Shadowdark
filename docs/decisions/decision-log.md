@@ -277,6 +277,25 @@ Dependencies: Noah's choice before Testing; active light/reminder handling; sour
 
 Next Action: Review or revise HB-001, then record any explicit selection for Testing. No test or adopted rule is implied by publishing this proposal.
 
+## SD-015 — Combat initiative and situational noncombat rounds
+
+Status: Accepted  
+Date: 2026-10-23  
+Category: Play-mode design direction  
+Authority: Noah's explicit clarification.
+
+Decision: Combat can retain turn-based initiative. Ordinary out-of-combat play should not run continuously in rounds. Turns/rounds outside combat should serve specific uses, especially immediate dangers where order matters. When light fails in a dangerous area, immediately use urgent crawling rounds and the published darkness restrictions and encounter cadence; do not wait for a ten-minute reminder. Return to freeform exploration after the urgent situation is resolved.
+
+Reasoning: Retains useful timing structure without making it the administrative default for all exploration.
+
+Alternatives: Continuous crawling rounds or entirely unstructured timing even during immediate danger.
+
+Tradeoffs: The GM must identify and communicate why an urgent sequence begins and when it ends. Do not label all tasks urgent or let an effect unnecessarily impose rounds on unrelated activity.
+
+Dependencies: SD-012 and SD-013; exact short-effect handling will be reviewed during abilities/magic design.
+
+Next Action: Apply this architecture to HB-001. Its encounter thresholds, interval and full-package status remain Proposed; the clarification is not blanket acceptance or authorization of Testing.
+
 ## Recording changes
 
 When accepted: record approver, date, exact scope, sources, alternatives, tradeoffs and dependencies. For a rule change link the HB file holding exact replacement text. When reversed: preserve prior decision history, add dated reason, and link any new ID replacing it. Reconcile affected outline, preparation and PROJECT_STATUS links. Add separate detailed records only as needed.

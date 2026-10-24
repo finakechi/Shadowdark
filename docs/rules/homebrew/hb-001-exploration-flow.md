@@ -3,7 +3,7 @@
 Status: Proposed  
 Version: 0.1  
 Created / updated: 2026-10-23  
-Related decisions: SD-012, SD-013; recommendation SD-014 (Proposed)  
+Related decisions: SD-012, SD-013, SD-015; recommendation SD-014 (Proposed)  
 Approval: none; not an active experiment or accepted campaign rule  
 Sources: uploaded Quickstart, folder labeled V2-4; internal revision unconfirmed
 
@@ -12,6 +12,22 @@ Sources: uploaded Quickstart, folder labeled V2-4; internal revision unconfirmed
 Noah found exploration too cumbersome to track, particularly when characters had few interesting options. The agreed goal is natural exploration, more room for useful actions, and retained torchlight pressure. This proposal addresses exploration flow first; character powers, magic redesign, durability and encounter statistics are later work.
 
 For roughly three players and 3–4-hour virtual sessions, routine exploration should require a shared light countdown and one automatic GM reminder. Individual turn order and a crawling-round counter are absent during ordinary exploration. Use rounds temporarily when their timing matters.
+
+## Confirmed play-mode distinction
+
+Noah clarified this direction on 2026-10-23 (SD-015):
+
+| Situation | Intended handling |
+|---|---|
+| Combat | Turn-based play with initiative |
+| Ordinary exploration, investigation, travel within a scene and conversation | Freeform; no routine round-by-round turn cycle |
+| A specific immediate noncombat danger | Temporary turns/rounds for that situation, with a clear reason to track order |
+| Light failure in a dangerous area | Immediately enter urgent crawling rounds and apply the published darkness restrictions/cadence |
+| Immediate urgency resolved | Return to freeform play |
+
+The ten-minute reminder is a proposed background exploration mechanism, never a grace period before danger takes effect. Other justified urgent cases can include a chase, flooding room or collapsing route. Do not classify every ordinary task as urgent simply to restore continuous round tracking. Timing-sensitive abilities need explicit handling in the next design phase; their existence must not automatically turn unrelated exploration into perpetual rounds.
+
+This confirms the mode distinction, not acceptance of HB-001's numerical thresholds, ten-minute interval or complete package.
 
 ## Baseline and affected rules
 
@@ -220,6 +236,10 @@ Record a small number of observations: did players wait for turns, did anyone do
 Change one calibration at a time if necessary: reminder interval or threshold, not several parameters at once. Preserve successful player decisions; do not add encounters only because the party made progress.
 
 Rollback at a clear pause to published freeform mode (B), restore the 3/2/1-round encounter cadence and the published minutes-pass rule, and keep actual remaining light/resources. Begin the new encounter-round count from zero at the stated transition. Do not refill light, rerun past checks or restore spent resources merely because the procedure changed. Record the reason and mark this version Rejected, Superseded or still Proposed as appropriate.
+
+## Clarification history
+
+2026-10-23: Added SD-015's explicit distinction between combat initiative, freeform ordinary exploration and specific temporary noncombat rounds. No numerical rule or full-package status changed.
 
 ## Review status
 

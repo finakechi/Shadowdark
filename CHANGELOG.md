@@ -37,3 +37,9 @@
 - Verified printed Quickstart pages for official freeform, group movement, shared light, time skips, darkness, encounters and short-effect timing.
 - Added HB-001 v0.1: a complete proposed conversational/timed exploration procedure, alternative comparison, weighted judgments, encounter probability calculations, interaction audit and test/rollback plan.
 - Updated navigation, register and project status. No procedure was adopted or playtest claimed.
+
+### Play-mode clarification
+
+- Recorded SD-015: combat initiative remains appropriate, ordinary exploration is freeform, and noncombat rounds have specific temporary uses.
+- Made immediate dangerous-darkness handling explicit in HB-001; the encounter reminder does not defer its consequences.
+- Clarified return to freeform after urgency ends. HB-001's numerical mechanics and full-package status remain Proposed.

@@ -8,7 +8,7 @@ Develop a short underground mini-campaign for approximately three players: at le
 
 ## Decisions and rules
 
-The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001/002 govern organization and design direction. SD-004 accepts level 1; SD-005–010 record Noah's campaign answers, preserving tentative details. SD-011 accepts 3–4-hour sessions; SD-012 records exploration/magic constraints and conditional interest in greater toughness. SD-003 is a superseded, never-adopted assistant proposal. SD-013 records the development order: exploration, then abilities/magic, then durability/encounters. SD-014 recommends HB-001 but remains Proposed. There are **no accepted homebrew rules and no active experiments**; consult the [homebrew register](docs/rules/homebrew/README.md).
+The [decision log](docs/decisions/decision-log.md) is authoritative. SD-001/002 govern organization and design direction. SD-004 accepts level 1; SD-005–010 record Noah's campaign answers, preserving tentative details. SD-011 accepts 3–4-hour sessions; SD-012 records exploration/magic constraints and conditional interest in greater toughness. SD-003 is a superseded, never-adopted assistant proposal. SD-013 records the development order: exploration, then abilities/magic, then durability/encounters. SD-014 recommends HB-001 but remains Proposed. SD-015 confirms combat initiative, freeform ordinary exploration and temporary rounds for specific immediate dangers, including dangerous darkness. There are **no accepted homebrew rules and no active experiments**; consult the [homebrew register](docs/rules/homebrew/README.md).
 
 ## Next actions
 
