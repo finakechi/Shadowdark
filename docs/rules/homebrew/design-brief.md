@@ -4,7 +4,7 @@ Status: design exploration only. No mechanics accepted or active tests. Governin
 
 ## Desired outcome
 
-More things worth doing with a character, during both combat and exploration, while retaining meaningful underground risk and many Shadowdark constraints. Start at level 1 and allow growth. D&D 2024 is a capability reference; exact numerical durability, recovery, action economy and class structure are unresolved.
+More things worth doing with a character, during both combat and exploration, while retaining meaningful underground risk and many Shadowdark constraints. Start at level 1 and allow growth. D&D 2024 is a capability reference and its twelve PHB class identities are now the selected roster (SD-019). Exact numerical durability, recovery, action economy and class mechanics remain unresolved.
 
 Noah identified bookkeeping as the central out-of-combat turn frustration, especially with few abilities worth using. More features, choices and magic are explicit goals. Preserve torchlight pressure for the most part; major magical bypasses must have serious costs if available. Greater toughness is open for evaluation, with appropriately dangerous enemies/hazards. Do not presume that either issue is solved by extra damage or hit points. Do not require an unmodified pilot as an already-agreed condition.
 
@@ -21,6 +21,8 @@ The [exploration baseline](../exploration-baseline.md) now verifies the relevant
 These are alternative directions, not rules. Bookkeeping is now the confirmed priority; conversational exploration with minimal shared tracking is the initial recommendation to develop, not an adopted procedure. A replacement must specify how time advances, when hazards/encounters are checked, how lengthy tasks compare, how party splitting works and how quiet players receive spotlight. Preserve danger through transparent time and consequences rather than an unexplained procedure.
 
 ## Second track: character capability
+
+The [twelve-class roster](../../characters/class-roster.md) records accepted scope and proposed identity briefs. The [shared framework](../../characters/class-design-framework.md) compares reskins, coordinated redesign and direct porting. Assess total capability, including spells; do not silently add identical feature counts to every new class.
 
 [HB-002](hb-002-character-options.md) now compares baseline classes, class specialties, classless modules and broader replacement. The [character/magic baseline](../character-magic-baseline.md) supplies printed source references. Feature menus and final counts are not approved.
 

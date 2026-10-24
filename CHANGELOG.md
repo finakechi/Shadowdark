@@ -50,3 +50,12 @@
 - Added HB-002 character architecture, HB-003 magic/ritual architecture and existing-spell audit, and HB-004 conditional HP/encounter comparison.
 - Recorded SD-016–018 as Proposed, updated register/status, and preserved unresolved exploration timer/chances.
 - Checked weighted-score and HP comparison arithmetic. No class menu, spell, HP rule or encounter adjustment was adopted or playtested.
+
+## 2026-10-24 (UTC)
+
+### Twelve-class roster and adaptation foundation
+
+- Verified the twelve 2024 Player's Handbook class names against official D&D sources; recorded Noah's selected roster as SD-019.
+- Added original class identity, tactical/utility and interaction briefs for all twelve, plus a Proposed shared redesign standard (SD-020).
+- Updated HB-002 to v0.2, expanding beyond the earlier four example classes and party-only drafting priority. Its numerical feature schedule remains Proposed; whole-kit auditing is recommended before final counts.
+- Updated status and navigation. No D&D mechanics, subclasses, HP changes or complete revised class sheets were adopted. No playtest claimed.
