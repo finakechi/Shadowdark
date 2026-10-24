@@ -1,6 +1,6 @@
 # Decision log
 
-Authoritative project decisions. Updated 2026-10-23. Decision IDs are permanent and never reused. Statuses are Proposed, Testing, Accepted, Rejected and Superseded. Project operating instructions can be Accepted from Noah's explicit request; campaign preferences and rule changes need Noah's choice. A score is not approval.
+Authoritative project decisions. Updated 2026-10-24 (UTC). Decision IDs are permanent and never reused. Statuses are Proposed, Testing, Accepted, Rejected and Superseded. Project operating instructions can be Accepted from Noah's explicit request; campaign preferences and rule changes need Noah's choice. A score is not approval.
 
 ## SD-001 — Project sources of truth
 
@@ -146,7 +146,7 @@ Date: 2026-10-23
 Category: Character setup  
 Authority: Noah's initial campaign setup answers.
 
-Decision: Create original characters with Noah guiding the process and adding restrictions. The actual restrictions, allowed classes/ancestries/supplements and degree of randomness are not yet specified.
+Decision: Create original characters with Noah guiding the process and adding restrictions. The class design roster is now specified by SD-019. Exact restrictions, allowed ancestries/supplements, subclasses and degree of randomness remain open.
 
 Reasoning: Allows personal character concepts within a coherent campaign.
 
@@ -352,6 +352,82 @@ Tradeoffs: Proportional gains favor small HP dice; dwarf's first-level rolling a
 Dependencies: Selected abilities/magic, ancestry, actual character sheets and encounter cadence.
 
 Next Action: Choose or revise a durability option after the ability/magic direction is clearer; then review representative encounters. No HP change or revised encounter statistics adopted.
+
+## SD-019 — Twelve-class character roster
+
+Status: Accepted  
+Date: 2026-10-24 (UTC)  
+Category: Character design scope  
+Authority: Noah explicitly requested the current D&D 2024 base roster before adapting all classes to this Shadowdark homebrew.
+
+Decision: Design for Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock and Wizard. The [roster](../characters/class-roster.md) links official verification and proposed adaptation briefs. This selects class identities, not D&D mechanics, additional species, subclasses, feats, multiclassing or twenty levels.
+
+Reasoning: Provides the familiar range of character concepts Noah requested while allowing coordinated redesign for the agreed homebrew.
+
+Alternatives: Limit creation to the four Quickstart classes; select only a few additional classes.
+
+Tradeoffs: Twelve classes require more design and overlap checking. The initial level-1/2/3 drafting milestone is a recommendation, not a campaign level cap. Cleric/Priest and Rogue/Thief naming mappings were subsequently accepted in SD-021; no mechanical equivalence follows.
+
+Dependencies: SD-004 level 1, SD-008 guided creation, SD-012 magic/exploration objectives; precise class kits and sources remain unresolved.
+
+Next Action: Produce coherent first-pass class kits across the roster using a shared review standard.
+
+## SD-020 — Coordinated class redesign standard
+
+Status: Proposed  
+Date: 2026-10-24 (UTC)  
+Category: Character design method  
+Authority: Assistant recommendation; distinct from Noah's accepted roster request.
+
+Decision: Consider the [shared class design framework](../characters/class-design-framework.md): design recognizable identities around Shadowdark-compatible actions/resources, assess whole kits including spells, and give each class useful combat choices and expedition/social contributions. Draft all twelve at level 1 before prioritizing deeper party-specific polish.
+
+Reasoning: Applying identical additive feature counts to unequal classes can produce large gaps. Whole-kit review better supports distinctive options and meaningful challenge.
+
+Alternatives: Minimal class reskins; direct D&D rules port; the earlier additive schedule in SD-016.
+
+Tradeoffs: More original drafting and playtesting; common standards should not make classes mechanically identical. No final count, stat generation, HP die, spell progression, resource pool or talent replacement is accepted.
+
+Dependencies: Accepted scope SD-019; HB-002/003 interaction; final guided-creation restrictions.
+
+Next Action: Draft concrete level-1 kits, compare significant alternatives, then revise and select candidates for Testing. SD-016 remains Proposed; this framework is not an additional automatic grant of features.
+
+## SD-021 — Cleric and Rogue names
+
+Status: Accepted  
+Date: 2026-10-24 (UTC)  
+Category: Character naming  
+Authority: Noah explicitly approved Rogue for Thief and Cleric for Priest.
+
+Decision: Use **Rogue** and **Cleric** as the homebrew roster names. Rogue develops from the verified Shadowdark Thief foundation; Cleric develops from the verified Priest foundation. Use original names when identifying published source material.
+
+Reasoning: Matches the selected twelve-class roster and Noah's preferred terminology.
+
+Alternatives: Keep Thief/Priest as the homebrew names or offer both as separate classes.
+
+Tradeoffs: References must distinguish published text from homebrew. This accepts names and lineage, not D&D mechanics, expanded Backstab eligibility, new spell access or any other class changes.
+
+Dependencies: SD-019 roster; precise kits under development.
+
+Next Action: Apply these names to new class drafts and preserve accurate source labels.
+
+## SD-022 — Complete-kit evaluation and candidate adaptations
+
+Status: Proposed  
+Date: 2026-10-24 (UTC)  
+Category: Character mechanics  
+Authority: Assistant recommendations following Noah's request to evaluate all twelve complete kits.
+
+Decision: Consider the [complete-kit evaluation](../characters/class-kit-evaluation.md) and [scored alternatives](../characters/class-kit-options.md): strengthen martial operating choices, make targeted changes to existing Cleric/Wizard capability, and design the other eight as distinct coordinated adaptations rather than direct full D&D ports.
+
+Reasoning: Total power includes equipment, spell breadth, casting reliability, healing, control, information, companions and growth. Equal added feature counts do not account for those interactions.
+
+Alternatives: Published/minimal foundations; coordinated adaptations; broad D&D subsystem ports. Each class has a specific comparison and stated assumptions.
+
+Tradeoffs: The recommended directions add design work and retain unresolved numerical interactions. Comparative HP dice, equipment directions, spell access, resource models and progression sketches are Proposed; none is a final class sheet or a finding of measured balance.
+
+Dependencies: SD-004/012/015/019/021; SD-016/017/018/020 remain Proposed where not explicitly approved.
+
+Next Action: Draft exact level-1 alpha sheets and level-2/3 choices, resolve shared action/casting contracts, then review durability and representative encounters. No class moved to Testing or Accepted.
 
 ## Recording changes
 

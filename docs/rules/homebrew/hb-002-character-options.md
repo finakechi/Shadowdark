@@ -1,9 +1,9 @@
 # HB-002 — Expanded character options through class specialties
 
 Status: Proposed  
-Version: 0.1 — architecture comparison, not a playable class package  
-Created / updated: 2026-10-23  
-Related decision: SD-016 (Proposed)  
+Version: 0.3 — complete-kit evaluation linked; not a playable class package  
+Created: 2026-10-23; updated: 2026-10-24 (UTC)  
+Related decisions: SD-016/020/022 (Proposed), SD-019 (Accepted roster), SD-021 (Accepted names)  
 Approval / playtest evidence: none
 
 ## Problem and baseline
@@ -11,6 +11,14 @@ Approval / playtest evidence: none
 Noah wants characters to have meaningful features, choices and magic from level 1 while retaining Shadowdark's constraints. Three likely players need distinct contributions without mandatory party roles.
 
 The [verified character/magic baseline](../character-magic-baseline.md) maps the uploaded Player Quickstart: classes pp. 18–25, advancement pp. 37–38, checks p. 43. Existing talent rolls often change numbers; additional rolls alone may not address the requested lack of actions.
+
+## Roster expansion and architecture review
+
+Noah selected the twelve 2024 Player's Handbook class identities under SD-019. See the [roster and original adaptation briefs](../../characters/class-roster.md). The earlier four-class examples below are retained as examples, not the full design scope.
+
+The [shared design framework](../../characters/class-design-framework.md) recommends evaluating each class's entire kit rather than applying identical additions to unequal starting packages. SD-020 is Proposed. The numerical schedule below remains an earlier proposal to evaluate, not an adopted entitlement layered on top of new classes.
+
+The [complete-kit evaluation](../../characters/class-kit-evaluation.md) and [class-specific alternative comparisons](../../characters/class-kit-options.md) now assess all twelve foundations, actions, utility, magic, resources, growth and interactions. Names Cleric and Rogue are accepted; candidate mechanics are not. The earlier four examples retain published source names for historical clarity.
 
 ## Approaches
 
@@ -21,15 +29,15 @@ The [verified character/magic baseline](../character-magic-baseline.md) maps the
 | C. Classless modules | Assemble offense, utility and magic from shared talent selections. | Maximum concept freedom. | Combo checking, role overlap and character-creation burden. |
 | D. Broad D&D-style replacement | Import/rebuild fuller class progression and related systems. | Largest immediate repertoire. | Larger action, recovery, spell and encounter redesign. |
 
-These are design routes, not restrictions already imposed on character creation. Other verifiable classes can still be considered once Noah defines allowed sources.
+These are design routes, not restrictions already imposed on character creation. The twelve-class scope is now selected; exact source permissions, mechanics, ancestry options and subclasses remain unresolved.
 
 ## Recommended architecture for review
 
-1. Keep the selected class's baseline features, equipment permissions, casting rules and talent schedule initially.
+1. Earlier additive approach: keep the selected class's baseline features, equipment permissions, casting rules and talent schedule initially. For the expanded roster, first audit total capabilities using the shared framework; no class automatically combines a complete D&D kit with these additions.
 2. Add **two chosen features at level 1**: one primarily for tactical decisions and one primarily for exploration, information or social contribution.
 3. Add **one feature choice at level 2**.
 4. At **level 3**, choose one new feature or an upgrade to a previous one, alongside the normal level benefits. Do not assume a level is gained every session or that the campaign must end at level 3.
-5. Design only the menus needed for the actual party and expected levels first. No full ten-level rewrite is required before the first session.
+5. Establish a coherent level-1 first pass for all twelve classes, then level-2/3 choices. Prioritize deeper polishing for the actual party after that roster-wide pass. No full ten-level rewrite is required before the first session.
 6. Add no universal bonus action, reaction or extra attack system. Features normally use the existing action or exchange part of an action's normal benefit.
 7. Prefer at-will, situational choices paid through opportunity cost or existing resources. Limited-use features need a reason and clear recovery wording; avoid separate pools for each ability.
 8. New caster features consume this same feature budget. Do not silently grant two signatures, extra known spells, minor magic and rituals all as independent free additions.
@@ -76,6 +84,13 @@ B's higher score assumes short, bounded features, preserved opportunity costs an
 - Failure: specify result, repeatability and consequences; no open-ended roll-until-success loop.
 - Test: after a menu is drafted and Noah selects Testing, include a tactical situation and an exploration/social obstacle for each feature. Record repeated dominant choices and sidelined abilities.
 - Rollback: remove only these added features at an agreed pause; retain earned levels, baseline talents and prior fictional outcomes. Do not force a character rebuild mid-scene.
+
+## Revision history
+
+- v0.1, 2026-10-23: initial additive architecture and four example class directions; no mechanics adopted.
+- v0.2, 2026-10-24: linked Noah's accepted twelve-class scope, replaced the party-only drafting priority, and proposed a common whole-kit audit. Preserved the earlier feature schedule and comparison as Proposed.
+
+- v0.3, 2026-10-24: recorded accepted homebrew names and linked the twelve package-level evaluations and scored alternatives. No additive schedule or class mechanics adopted.
 
 ## Remaining work before play
 
